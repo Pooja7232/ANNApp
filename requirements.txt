@@ -1,8 +1,7 @@
 streamlit
-numpy 
+numpy
 pandas
 matplotlib
 plotly
-seaborn
-tensorflow
 scikit-learn
+tensorflow==2.16.1
